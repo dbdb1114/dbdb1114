@@ -1,10 +1,6 @@
 
 <h2 align="center"> :factory: 생각하는 백엔드 개발자 유정현 입니다. </h2>
 <div align="center">
-  
-
-
-  ### 🔨기술 스택
 
   #### Language
   <img src="https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java&logoColor=white">
