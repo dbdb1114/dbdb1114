@@ -4,8 +4,8 @@
   
   #### Blog 
   
-  #### [🔨기술_블로그_이전](https://dev-dbdb1114.tistory.com/)
-  #### [🔨기술_블로그_현재](https://velog.io/@dbdb1114/posts)
+  #### [🔨기술_블로그_이전 ( ~23.12.01 ) ](https://dev-dbdb1114.tistory.com/)
+  #### [🔨기술_블로그_현재 ( 24.12.01~ ) ](https://velog.io/@dbdb1114/posts)
   #### [🏠일상_글쓰기_블로그](https://blog.naver.com/dbdb1114)
 
   #### Language
