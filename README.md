@@ -1,11 +1,12 @@
 
 <h2 align="center"> :factory: 생각하는 백엔드 개발자 유정현 입니다. </h2>
 <div align="center">
+  
   #### Blog 
-  [🏠일상_블로그](https://blog.naver.com/dbdb1114)
-  [🔨기술_블로그_이전](https://dev-dbdb1114.tistory.com/)
-  [🔨기술_블로그_현재](https://velog.io/@dbdb1114/posts)
-
+  
+  #### [🔨기술_블로그_이전](https://dev-dbdb1114.tistory.com/)
+  #### [🔨기술_블로그_현재](https://velog.io/@dbdb1114/posts)
+  #### [🏠일상_글쓰기_블로그](https://blog.naver.com/dbdb1114)
 
   #### Language
   <img src="https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java&logoColor=white">
