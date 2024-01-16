@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   
-  #### Cowrk tools
+  #### Cowork tools
   <img src="https://img.shields.io/badge/intellijIDEA-000000?style=for-the-badge&logo=intellijIDEA&logoColor=white"> 
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"> 
 
