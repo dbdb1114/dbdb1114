@@ -1,40 +1,34 @@
 
-<h1 align="center"> :factory: 생각하는 백엔드 개발자 유정현 입니다. </h1>
-
-<div style="display:flex; flex-direction:row;">
-  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3110fb47-f914-4c7b-a49d-209cf835f1a3%2F%25E1%2584%2580%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25B72.png?table=block&id=d806891f-c6e0-468f-9b5d-0f27e6811d96&spaceId=2d8d8c15-cfb9-4a7d-baa5-6e6ab564ad3f&width=250&userId=8677f62e-14e4-464b-b077-ed185e1d3f71&cache=v2"/>
-
-  <div>
-  
-  ```java
-  public class JungHyun extends JuniorDeveloper implements BackendDeveloper{
-  	
-  	final String NAME = "유정현";
-  	final String GIT_HUB = "https://github.com/dbdb1114";
-  	final String EMAIL = "dbdb1114@naver.com";
-  	final	int PHONE = 01054215350;
-  
-  	String UNIV = "세종사이버대학교";
-  	String DEPARTMENT = "소프트웨어 공학과";
-  	String UNIV_STATEMENT = "2학년 1학기 수료";
-  
-  	final boolean 성실성 = true;
-  
-  	final int EFFORT_LEVEL = 9999;
-  	final int PERSISTENCE_LEVEL = 9999;
-  	
-  }
-  ```
-  </div>
-
-</div>
+<h2 align="center"> :factory: 생각하는 백엔드 개발자 유정현 입니다. </h2>
 <div align="center">
+  
+
+
+  ### 🔨기술 스택
+
+  #### Language
+  <img src="https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  
+  #### Back-end-Stack & DataBase
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white">
+
+  #### Front-end-Stack
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  
+  #### Cowrk tools
+  <img src="https://img.shields.io/badge/intellijIDEA-000000?style=for-the-badge&logo=intellijIDEA&logoColor=white"> 
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"> 
+
 </div>
-
-  <div>
-    💻 열심히 공부중인 백엔드 주니어 개발자입니다.
-  </div>
-
 
 
 <!--
