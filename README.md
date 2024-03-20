@@ -6,7 +6,7 @@
   
   #### [🔨기술_블로그_이전 ( ~23.12.01 ) ](https://dev-dbdb1114.tistory.com/)
   #### [🔨기술_블로그_현재 ( 24.12.01~ ) ](https://velog.io/@dbdb1114/posts)
-  #### [🏠일상_글쓰기_블로그](https://blog.naver.com/dbdb1114)
+
 
   #### Language
   <img src="https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java&logoColor=white">
