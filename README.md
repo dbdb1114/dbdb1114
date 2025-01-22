@@ -3,10 +3,10 @@
 <div align="center">
   
   #### Blog 
-  
-  #### [🔨기술_블로그_이전 ( ~23.12.01 ) ](https://dev-dbdb1114.tistory.com/)
-  #### [🔨기술_블로그_현재 ( 24.12.01~ ) ](https://velog.io/@dbdb1114/posts)
-
+  #### [🔨기술_블로그_( 24.12.01~ ) ](https://velog.io/@dbdb1114/posts)
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=dbdb1114&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+<br>
 <a href="https://solved.ac/dbdb1114">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbdb1114" alt="Solved.ac Profile"/>
 </a>
